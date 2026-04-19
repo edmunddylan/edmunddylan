@@ -1,4 +1,4 @@
-## Hi, I'm Edmund 👋
+## edmund here
 
 Optical retail professional transitioning into CRM, AI automation & RevOps.
 
