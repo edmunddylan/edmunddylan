@@ -8,7 +8,7 @@ Currently building:
 - Claude AI integrations
 - SQL fundamentals
 
-Stack: n8n · Salesforce · Claude API · Google Sheets · SQL
+Stack: n8n · Salesforce · Claude API · SQL
 
 Based in Singapore 🇸🇬
 <!--
