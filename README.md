@@ -6,7 +6,7 @@ Currently building:
 - Salesforce Admin certification
 - n8n workflow automation
 - Claude AI integrations
-- SQL fundamentals
+  
 
 Stack: n8n · Salesforce · Claude API · SQL
 
