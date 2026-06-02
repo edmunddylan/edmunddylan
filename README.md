@@ -8,7 +8,7 @@ Currently building:
 - Claude AI integrations
   
 
-Stack: n8n · Salesforce · Claude API · SQL
+Stack: n8n · Salesforce · Claude 
 
 Based in Singapore 🇸🇬
 <!--
