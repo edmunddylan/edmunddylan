@@ -6,9 +6,10 @@ Currently building:
 - Salesforce Admin certification
 - n8n workflow automation
 - Claude AI integrations
+- RAG
   
 
-Stack: n8n · Salesforce · Claude 
+Stack: n8n · Salesforce · Claude . RAG
 
 Based in Singapore 🇸🇬
 <!--
